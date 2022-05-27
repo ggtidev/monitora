@@ -115,6 +115,13 @@ section .mbr-background-video-preview {
   z-index: 20;
 }
 
+.img-size {
+  width: 200px;
+}
+
+.img-size2 {
+  width: 10rem;
+}
 /*! Base colors */
 .mbr-white {
   color: #ffffff;
