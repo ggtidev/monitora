@@ -1,6 +1,10 @@
 body {
   font-family: Jost;
 }
+
+.padding-title {
+  padding-top: 30px;
+}
 .display-1 {
   font-family: 'Jost', sans-serif;
   font-size: 4.6rem;

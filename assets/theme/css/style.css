@@ -116,7 +116,8 @@ section .mbr-background-video-preview {
 }
 
 .img-size {
-  width: 200px;
+  width: 160px;
+  padding-bottom: 5px;
 }
 
 .img-size2 {
